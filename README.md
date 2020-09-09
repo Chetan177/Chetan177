@@ -48,6 +48,10 @@
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
+
+
 
 <br/><br/>
 
