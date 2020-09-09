@@ -25,13 +25,15 @@
 <br/>
 
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 :smiley: **Software Engineer** 
 
 👨‍🎓 B.Tech in Comupter Science Engineering from the **[KIIT college of engineering]** 
 
 ### About me :eyes:
 
-- :dart: Software Developer | Cloud Services |Machine learning | Deep learning | Computer vision   
+- :dart: Software Developer | Cloud Services |Machine learning | Deep learning | Telephony Engineer
 - :heart: Love to code**
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@chetanpandey177)**  
 - :e-mail: Ask me about anything ; **[chetanpandey177@gmail.com](chetanpandey177@gmail.com)**
