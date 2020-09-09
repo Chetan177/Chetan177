@@ -42,4 +42,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chetan177&show_icons=true&hide_border=true)
 
-⭐️ From [iampavangandhi](https://github.com/chetan177)
+<a href="https://github.com/chetan177">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan177&show_icons=true&hide_border=tru" />
+</a>
+
+⭐️ From [Chetan177](https://github.com/chetan177)
