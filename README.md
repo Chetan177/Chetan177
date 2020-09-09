@@ -38,18 +38,17 @@
 <br/><br/><br/>
 
 ### Languages and Tools :computer:
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
 <br/><br/>
 
-### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chetan177&show_icons=true&hide_border=true)
 
@@ -57,4 +56,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan177&show_icons=true&hide_border=tru" />
 </a>
 
+
+### Show some ❤️ by starring some of the repositories!
 ⭐️ From [Chetan177](https://github.com/chetan177)
