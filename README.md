@@ -1,21 +1,18 @@
 ### Hey 👋, I'm [Chetan Pandey]() 👨‍💻
 
-<a href="">
+<a href="https://twitter.com/chetanpandey177">
   <img align="left" alt="Chetan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/chetan-pandey-19a008159/">
   <img align="left" alt="Chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+<a href="http://github.com/Chetan177">
   <img align="left" alt="Chetan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Chetan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="">
+<a href="https://www.instagram.com/chetanp177/">
   <img align="left" alt="Chetan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="">
+<a href="https://www.facebook.com/chetanpandey177">
   <img align="left" alt="Chetan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -62,5 +59,5 @@
 </a>
 
 
-### Show some ❤️ by starring some of the repositories!
-⭐️ From [Chetan177](https://github.com/chetan177)
+### Show some ❤️ by starring some of the repositories!  ⭐️ From [Chetan177](https://github.com/chetan177)
+
