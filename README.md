@@ -33,21 +33,13 @@
 
 - :dart: Software Developer | Cloud Services |Machine learning | Deep learning | Computer vision   
 - :heart: Love to code**
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@chetanpandey177)** and solving bugs in 
+- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@chetanpandey177)**  
 - :e-mail: Ask me about anything ; **[chetanpandey177@gmail.com](chetanpandey177@gmail.com)**
 
 
-<!--
-**Chetan177/Chetan177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Show some ❤️ by starring some of the repositories!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=chetan177&show_icons=true&hide_border=true)
+
+⭐️ From [iampavangandhi](https://github.com/chetan177)
