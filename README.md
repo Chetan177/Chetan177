@@ -52,6 +52,7 @@
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
+<code><a><img height="35" src="https://upload.wikimedia.org/wikipedia/en/c/c7/Dialogflow_logo.svg"></a></code>
 
 
 
