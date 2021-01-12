@@ -30,7 +30,7 @@
 
 - :dart: Software Developer | Cloud Services |Machine learning | Deep learning | Telephony Engineer
 - :heart: Love to code
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@chetanpandey177)**  
+- :writing_hand: Writing blogs on  **[Medium](https://chetan177.medium.com/)**  
 - :e-mail: Ask me about anything ; **[chetanpandey177@gmail.com](chetanpandey177@gmail.com)**
 <br/><br/><br/>
 
