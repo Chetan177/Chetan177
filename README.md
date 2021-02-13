@@ -24,7 +24,7 @@
 
 :smiley: **Software Engineer** 
 
-👨‍🎓 B.Tech in Computer Science Engineering from the **[KIIT college of engineering]** 
+👨‍🎓 B.Tech in Computer Science Engineering  
 
 ### About me :eyes:
 
