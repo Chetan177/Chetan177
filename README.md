@@ -67,6 +67,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan177&show_icons=true&hide_border=tru" />
 </a>
 
+![Chetan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chetan177)
 
 ### Show some ❤️ by starring some of the repositories!  ⭐️ From [Chetan177](https://github.com/chetan177)
 
