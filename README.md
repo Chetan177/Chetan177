@@ -1,8 +1,5 @@
 ### Hey 👋, I'm [Chetan Pandey]() 👨‍💻
 
-<a href="https://twitter.com/chetanpandey177">
-  <img align="left" alt="Chetan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/chetan-pandey-19a008159/">
   <img align="left" alt="Chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
