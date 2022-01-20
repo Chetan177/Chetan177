@@ -47,9 +47,21 @@
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a><img height="35" src="https://upload.wikimedia.org/wikipedia/en/c/c7/Dialogflow_logo.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
+<code><a><img height="50" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
+
 
 
 
