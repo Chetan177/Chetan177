@@ -1,5 +1,6 @@
 ### Hey 👋, I'm [Chetan Pandey]() 👨‍💻
 
+[![wakatime](https://wakatime.com/badge/user/f9f6e2c3-fc82-4479-85ab-3d57d1ecc2cf.svg)](https://wakatime.com/@f9f6e2c3-fc82-4479-85ab-3d57d1ecc2cf)
 <a href="https://www.linkedin.com/in/chetan-pandey-19a008159/">
   <img align="left" alt="Chetan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
