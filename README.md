@@ -26,7 +26,7 @@
 
 ### About me :eyes:
 
-- :dart: Software Developer | Cloud Services |Machine learning | Deep learning | Telephony Engineer
+- :dart: Software Developer | Cloud Services | Gopher | Kubernetes | Web3
 - :heart: Love to code
 - :writing_hand: Writing blogs on  **[Medium](https://chetan177.medium.com/)**  
 - :e-mail: Ask me about anything ; **[chetanpandey177@gmail.com](chetanpandey177@gmail.com)**
