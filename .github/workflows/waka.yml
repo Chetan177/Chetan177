@@ -7,8 +7,8 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme
     runs-on: ubuntu-latest
+    environment: Prod
 
     steps:
       - uses: athul/waka-readme@master
