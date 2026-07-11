@@ -153,6 +153,15 @@ I'm a Backend Engineer passionate about building scalable backend systems, distr
 # ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       13 hrs 2 mins         ██████████████▓░░░░░░░░░░   58.76 %
+Markdown     3 hrs 32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+TypeScript   2 hrs 44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+Other        1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Bash         34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+```
+
 <!--END_SECTION:waka-->
 
 > Automatically updated every day using the **WakaTime GitHub Action**.
