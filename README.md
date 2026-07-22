@@ -155,11 +155,11 @@ I'm a Backend Engineer passionate about building scalable backend systems, distr
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 48 mins        ████████████████▓░░░░░░░░   66.70 %
-TypeScript   2 hrs 1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown     1 hr 56 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Other        59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-JavaScript   16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Python       10 hrs 50 mins        ███████████████░░░░░░░░░░   60.16 %
+Markdown     2 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+TypeScript   2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Other        1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Diff         18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
